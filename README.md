@@ -12,3 +12,7 @@
 ## Beurten
 req1: K
 req2: A
+req3: A
+req4: S
+req5: J
+req6: E
