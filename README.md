@@ -11,3 +11,4 @@
 
 ## Beurten
 req1: K
+req2: A
