@@ -2,14 +2,15 @@
 
 ## Te raden woord
 
-|P|A|P|A|
+|.|A|.|A|
 |-|-|-|-|
 |1|2|3|4|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 req1: E
-req2: P
-req3: A
+res1: Nee, Helaas
+req2: A
+res2: Ja, A is goed!
