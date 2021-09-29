@@ -15,3 +15,4 @@ res1: Nee, Helaas
 req2: A
 res2: Ja, A is goed!
 req3: P
+res3:Ja, je hebt gewonnen. Hoera !!!
