@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/4.png)
+![gallow](./images/5.png)
 
 ## Beurten
 1. E
@@ -16,5 +16,5 @@
 4. I 
 5. R
 6. N Fout
-7. P
+7. P Fout
 8.
