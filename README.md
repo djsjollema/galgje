@@ -10,7 +10,7 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1.
+1. E
 2.
 3.
 4.
