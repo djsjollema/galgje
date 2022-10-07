@@ -2,13 +2,20 @@
 
 ## Te raden woord
 
-|.|a|.|.|.|
+|S|.|I|E|R|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/5.png)
 
 ## Beurten
-1. a - goed!
-2. 
+1. E
+2. A FOUT
+3. M Fout
+4. I 
+5. R
+6. N Fout
+7. P Fout
+8. S 
+9.
